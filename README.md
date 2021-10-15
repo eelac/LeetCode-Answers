@@ -1,4 +1,4 @@
 # LeetCode-Answers
 
-Answers to the leetcode problems I solved.  
+Leetcode problems I solved.  
 [LeetCode](https://leetcode.com/)
