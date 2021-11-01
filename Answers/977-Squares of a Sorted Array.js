@@ -4,4 +4,4 @@ var sortedSquares = (nums) => {
     return a - b;
   });
   return sort;
-};
+}
