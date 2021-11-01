@@ -1,3 +1,3 @@
 var defangIPaddr = (address) => {
-  return address.replaceAll(".", "[.]");
+  return address.replaceAll(".", "[.]")
 };
